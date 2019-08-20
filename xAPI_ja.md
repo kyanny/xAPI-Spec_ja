@@ -327,7 +327,7 @@ xAPI の要求の収集において、多くの人々や組織から、SCORM®�
 * [Experience API (xAPI)](#def-experience-api)
 * [イミュータブル](#def-immutable)
 * [IRI (Internationalized Resource Identifier)](#def-iri)
-* [IRL (Internationalized Resource Locator)](#def-iri)
+* [IRL (Internationalized Resource Locator)](#def-irl)
 * [逆関数識別子 (Inverse Functional Identifier)](#def-inverse-functional-identifier)
 * [LMS](#def-learning-management-system)
 * [LRS](#def-learning-record-store)

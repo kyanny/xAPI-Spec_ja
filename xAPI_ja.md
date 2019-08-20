@@ -58,7 +58,7 @@ tincan@elc.or.jp
         *   2.2.1.  [ワーキンググループの参加者](#wg)
         *   2.2.2.  [要求仕様収集への貢献者](#reqparticipants)
     *   2.3 [>技術に詳しくない人への読み方ガイドライン](#readingguidelines)
-*   3.0.    [用語の定義](#defintions)
+*   3.0.    [用語の定義](#definitions)
 *   4.0.    [ステートメント](#statement)
     *   4.1.    [ステートメントプロパティ](#stmtprops)
         *   4.1.1.  [id (識別子)](#stmtid)

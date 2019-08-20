@@ -490,6 +490,7 @@ __動詞 (Verb)__: ステートメントにおいて、アクティビティに�
 
 <div style="page-break-after: always;"></div>
 <a name="statement"/></a>
+
 ## 4.0 ステートメント
 
 ###### 説明

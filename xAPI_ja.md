@@ -113,6 +113,7 @@ tincan@elc.or.jp
 
 <div style="page-break-after: always;"></div>
 <a name="revhistory"/></a>
+
 ## 1.0 改定履歴
 ###### 0.8 (Project Tin Can API の配布）から 0.9 (2012/03/31)
 

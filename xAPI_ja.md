@@ -160,6 +160,7 @@ Project Tin Can API を提供した Rustici Software が、2012年4月のキッ�
 
 <div style="page-break-after: always;"></div>
 <a name="roleofxapi"/></a>
+
 ## 2.0 Experience API の役割
 Experience API (xAPI) は経験に関するステートメントを、Learning Record Store (LRS) に配
 送し、安全に記録するためのサービスである。これらの経験に関するステートメントは、典型

@@ -784,7 +784,6 @@ xAPI ステートメント中の動詞は、学習経験中に行われた行動
         </td>
         <td>必須</td>
     </tr>
-
     <tr>
         <td>display</td>
         <td><a href="#misclangmap">言語マップ</a></td>

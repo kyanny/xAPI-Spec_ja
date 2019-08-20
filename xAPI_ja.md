@@ -312,6 +312,7 @@ xAPI の要求の収集において、多くの人々や組織から、SCORM®�
 
 <div style="page-break-after: always;"></div>
 <a name="definitions"/></a>
+
 ## 3.0 用語の定義
 
 * [アクティビティ](#def-activity)

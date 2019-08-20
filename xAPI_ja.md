@@ -506,7 +506,7 @@ __動詞 (Verb)__: ステートメントにおいて、アクティビティに�
 
 <table>
     <tr><th>プロパティ</th><th>タイプ</th><th>説明</th><th>必須</th></tr>
-    <tr><td>id</td><td>UUID</td>
+    <tr><td><a href="#stmtid">id</a></td><td>UUID</td>
     <td>アクティビティプロバイダが設定しない場合に、LRS によって割り当てられた UUID。</td><td>推奨</td></tr>
     <tr><td><a href="#actor">actor</a></td><td>Object</td>
     <td>ステートメントが誰に関するものか（<a href="#agent">Agent</a> や <a href="#group">Group</a> として）。"I Did This" の中の "I" に対応。</td><td>必須</td></tr>

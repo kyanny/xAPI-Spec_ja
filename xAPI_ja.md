@@ -886,7 +886,7 @@ xAPI における動詞は IRI であり、いかなる言語にも依存しな�
 実践コミュニティでは、その構成員の要求にこたえるために、どこかの段階で新たな動詞を
 定義する必要が出てくる。
 
-そのため、xAPI実践コミュニティは、新規または既存の<a href="#controlled-vocabulary">予約語</a>
+そのため、xAPI実践コミュニティは、新規または既存の<a href="#def-controlled-vocabulary">予約語</a>
 に基づき、<a href="#def-community-profile">コミュニティプロファイル</a>を作成する。
 
 
